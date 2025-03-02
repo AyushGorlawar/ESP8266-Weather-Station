@@ -2,7 +2,7 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266HTTPClient.h>
 #include <ArduinoJson.h>
-#include <WiFiManager.h>  // https://github.com/tzapu/WiFiManager
+#include <WiFiManager.h>  
 
 // OpenWeather API Configuration
 const char* openWeatherApiKey = "b30c6e539e0c9a84e90ba91b0524756"; // Your OpenWeather API key
