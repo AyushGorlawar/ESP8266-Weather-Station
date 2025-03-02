@@ -5,7 +5,7 @@
 #include <WiFiManager.h>  // https://github.com/tzapu/WiFiManager
 
 // OpenWeather API Configuration
-const char* openWeatherApiKey = "b30c6e539e0c9a84e90ba91b0524756c"; // Your OpenWeather API key
+const char* openWeatherApiKey = "b30c6e539e0c9a84e90ba91b0524756"; // Your OpenWeather API key
 const char* defaultCity = "Pune";              // Default city
 const char* defaultCountryCode = "IN";         // Default country code
 
